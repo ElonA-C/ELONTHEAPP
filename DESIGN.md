@@ -15,7 +15,7 @@
           }
         }}
 
-<!--  I use a style for the button  -->
+<!--  I use a style for a button  -->
 
         style={styles.Buttonpositon}
       >
