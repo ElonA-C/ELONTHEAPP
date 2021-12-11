@@ -32,13 +32,19 @@
 
 const styles = StyleSheet.create({
 contanier: {
+
 <!-- I used flex in order layout the app  -->
+
 flex: 1,
+
 <!--  we use the backgroundcolor in order to change the background color to someting cooler like light black -->
+
 backgroundColor: "#07121B",
 },
 mainConatinerStyle: {
+
 <!-- I center the iteam himeslf and then control his moveing it several pixles -->
+
 flexDirection: "column",
 flex: 1,
 justifyContent: "center",
@@ -48,7 +54,9 @@ top: 0,
 },
 
 buttonTEXT: {
+
 <!--  I play with the font size along with the position and the coloar of the text -->
+
 fontSize: 45,
 color: "#B9AAFF",
 height: 100,
@@ -56,7 +64,9 @@ height: 100,
 
 sectionTitle: {
 flex: 1,
+
 <!--  we stick the title to the top useing paddingtop, along with center it and change size -->
+
 paddingTop: StatusBar.currentHeight,
 color: "red",
 padding: 8,
@@ -66,7 +76,9 @@ alignSelf: "center",
 },
 
 Buttonpositon: {
+
 <!--  we center the object along with changeing height, with a been "realative" to the another objects -->
+
 position: "relative",
 height: 200,
 alignItems: "center",
@@ -74,7 +86,9 @@ justifyContent: "center",
 },
 
 sectionTitleb: {
+
 <!-- We use color, to change the color text, fontsize and weight to change the size of texxt and bold it a bit, along with playting with height. -->
+
 flex: 1,
 color: "blue",
 padding: 8,
@@ -83,7 +97,9 @@ fontWeight: "600",
 height: 100,
 },
 randompicture: {
+
 <!-- we use width and height in order to control the picture size, we center the picture with alignSelf and moveing it a bit up using margin-->
+
 marginTop: 10,
 width: "80%",
 height: "57%",
