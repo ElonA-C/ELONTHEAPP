@@ -1,5 +1,3 @@
-# my app
-
 My App
 
 I created an app where the user can generate "Random" pictures from a list of 8 pictures. At the top left, you will see a button- that has been pressed. It will show the user a message with a description of the app.
